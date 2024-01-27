@@ -2,6 +2,8 @@
 
  🔭 I’m currently working on PHP - Laravel 
 
+  📫 How to reach me: emredikmen002@gmail.com
+
 <!--
 **fabyo0/fabyo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
